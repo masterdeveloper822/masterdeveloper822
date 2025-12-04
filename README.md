@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi Traveller, I am Breey. 👋
+🔭 I work at SAP as a Senior Machine Learning Scientist.
 <!--
 **masterdeveloper822/masterdeveloper822** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
